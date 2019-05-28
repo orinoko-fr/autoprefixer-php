@@ -1,4 +1,4 @@
-# Autoprefixer PHP [![Build Status](https://travis-ci.org/vladkens/autoprefixer-php.svg?branch=master)](https://travis-ci.org/vladkens/autoprefixer-php)
+# Autoprefixer PHP
 
 [Autoprefixer](https://github.com/ai/autoprefixer) is a tool
 to parse CSS and add vendor prefixes to CSS rules using values
@@ -25,7 +25,7 @@ a {
 }
 ```
 
-You can ask me any questions by e-mail: <vladkens@yandex.ru>
+You can ask the author any questions by e-mail: <vladkens@yandex.ru>
 
 ## Install
 
@@ -38,7 +38,7 @@ You can ask me any questions by e-mail: <vladkens@yandex.ru>
     ```js
     {
         "require": {
-            "vladkens/autoprefixer": "dev-master"
+            "orinoko-fr/autoprefixer": "^0.2"
         }
     }
     ```

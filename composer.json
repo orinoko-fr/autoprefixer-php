@@ -1,6 +1,7 @@
 {
-    "name": "vladkens/autoprefixer",
+    "name": "orinoko-fr/autoprefixer",
     "type": "library",
+    "version": "0.2",
     "description": "Run Autoprefixer using node.js in you php.",
     "keywords": ["autoprefixer", "css", "prefixes", "node.js"],
     "license": "MIT",
@@ -11,9 +12,9 @@
         }
     ],
     "support": {
-        "email": "vladkens@yandex.ru",
-        "issues": "https://github.com/vladkens/autoprefixer-php/issues",
-        "source": "https://github.com/vladkens/autoprefixer-php"
+        "email": "support@orinoko.fr",
+        "issues": "https://github.com/orinoko-fr/autoprefixer-php/issues",
+        "source": "https://github.com/orinoko-fr/autoprefixer-php"
     },
     "require": {
         "php": ">=5.3.0"
