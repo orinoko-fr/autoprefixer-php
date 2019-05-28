@@ -59,7 +59,7 @@ class Autoprefixer
         $this->fwrite_stream($pipes[0],
             json_encode(array(
                 'css' => $css,
-                'browsers' => !is_null($browsers) ? $browsers : $this->browsers)
+                'overrideBrowserslist' => !is_null($browsers) ? $browsers : $this->browsers)
             ));
         fclose($pipes[0]);
 
