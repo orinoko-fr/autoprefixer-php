@@ -1,7 +1,7 @@
 {
     "name": "orinoko-fr/autoprefixer",
     "type": "library",
-    "version": "0.2",
+    "version": "0.3",
     "description": "Run Autoprefixer using node.js in you php.",
     "keywords": ["autoprefixer", "css", "prefixes", "node.js"],
     "license": "MIT",
